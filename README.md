@@ -1,4 +1,4 @@
-# adventure-game
+# Adventure-game
 Je maakt met behulp van Javascript een toffe Adventure Game.
 
 ### Functionele eisen
